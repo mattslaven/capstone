@@ -1,8 +1,9 @@
-# Project components
-<ol><li>High level description: Correlation between electoral margin and federal tax flow<br>
-<li>Problem I am attempting to address: Determine whether or not there is a correlation between the electoral margin and the inflow (outflow) of federal tax expenditures.<br>
-<li>Presentation of work: Slides<br>
-<li>Data sources:
-<ul><li><a href="http://www.google.com">Source 1</a>
-<li><a href="http://www.google.com">Source 2</a></ul>
-<li>What’s your next step towards making this your project: Getting access to the data.</ol>
+# Electoral margin vs. tax inflow/outflow
+<ol><li><b>High level description:</b> Correlation between electoral margin and federal tax inflow/outflow of United States congressional regions.<br>
+<li><b>Problem I am attempting to address:</b> Determine whether or not there is a correlation between the electoral margin and the inflow (outflow) of federal tax expenditures. Determine whether tight congressional races have any impact on Congressional representatives' ability to allocate funding to their local communities. If there is a causal effect, this could affect expected return on real estate investments in areas with favorable political tendencies.<br>
+<li><b>Presentation of work:</b> Slides<br>
+<li><b>Data sources:</b>
+<ul><li><a href="http://www.google.com">TBD: Biannual election results for U.S. congressional races.</a>
+<li><a href="http://www.google.com">TBD: U.S. federal government expenditures by congressional district.</a>
+<li><a href="http://www.google.com">TBD: U.S. federal tax receipts by congressional district.</a></ul>
+<li><b>Next steps:</b> Getting access to the data.</ol>
