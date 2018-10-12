@@ -6,4 +6,4 @@
 <ul><li><a href="http://www.google.com">TBD:</a> Biannual election results for U.S. congressional races.
 <li><a href="http://www.google.com">TBD:</a> U.S. federal government expenditures by congressional district.
 <li><a href="http://www.google.com">TBD:</a> U.S. federal tax receipts by congressional district.</ul>
-<li><b>Next steps:</b> Getting access to the data.</ol>
+<li><b>Next steps:</b> Getting access to the data, and determining which fields can be used as a join.</ol>
