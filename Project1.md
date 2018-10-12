@@ -5,4 +5,4 @@
 <li><b>Data sources:</b>
 <ul><li><a href="http://adni.loni.usc.edu/data-samples/access-data/">Alzheimer’s Disease Neuroimaging Initiative (ADNI)</a>
 <li><a href="https://www.nia.nih.gov/research/amp-ad">Accelerating Medicines Partnership-Alzheimer's Disease (AMP-AD) Knowledge Portal</a></ul>
-<li><b>Next steps:</b> Getting access to the data.</ol>
+<li><b>Next steps:</b> Getting access to the data. These sources require permission to access, so I need to complete my request to initiate the process.</ol>
