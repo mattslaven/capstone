@@ -5,4 +5,4 @@
 <li><b>Data sources:</b>
 <ul><li><a href="http://www.unhcr.org/en-us/figures-at-a-glance.html">United Nations High Commissioner for Refugees (UNHCR)</a>
 <li><a href="https://www.imf.org/external/np/ds/matrix.html">International Monetary Fund</a></ul>
-<li><b>Next steps:</b> Getting access to the data.</ol>
+<li><b>Next steps:</b> Getting access to the data, and determining which fields may be available to join the data.</ol>
