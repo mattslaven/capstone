@@ -5,8 +5,7 @@ Issues:
 2. The instructions also state that 1 TB is needed "to store the fully restored database." This seems to imply that I will need to run the spending data from an Amazon cluster.<br>
 3. I have reviewed the data dictionary for the spending data, but do not yet understand this well enough to have determined how I will segment this data.<br><br>
 <b>VOTING DATA</b><br>
-I have manually cleaned the voting data for 2016 and 2014. I am about 2/3 complete with the manual cleaning of the 2012 vote counts.<br>
-Electoral features that I intend to analyze include:<br>
+I have manually cleaned the voting data for 2016 and 2014. I am about 2/3 complete with the manual cleaning of the 2012 vote counts. Electoral features that I intend to analyze include:<br>
 1. How many candidates ran for each congressional seat?<br>
 2. What was the % margin of victory?<br>
 3. What is the average number of votes cast for each seat? (I plan to use this as a proxy for the number of constituents represented.)
