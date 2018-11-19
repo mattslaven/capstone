@@ -1,5 +1,5 @@
-<b>SPENDING DATA</b>
-Issues:
+<b>SPENDING DATA</b><br>
+Issues:<br>
 1. According to database installation <a href="https://files.usaspending.gov/database_download/usaspending-db-setup.pdf">instructions</a>, 50 Gb needed locally for installation. After clearing space on my local hard drive, I now have nearly 200 Gb (of 500 Gb) free. When I tried to unzip the 46 Gb file that I downloaded, I received the following error message.<br>
 <img src="Spending_database_error.png">
 2. The instructions also state that 1 TB is needed "to store the fully restored database." This seems to imply that I will need to run the spending data from an Amazon cluster.<br>
